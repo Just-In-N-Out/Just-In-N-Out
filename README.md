@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Just-In-N-Out/count.svg" alt="Visitor Count" />
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=500&height=70&color=00FF00&duration=4000&lines=Hi+There!+👋;I'm+Justin+Issa;Welcome+to+my+GitHub!" />
 </h1>
