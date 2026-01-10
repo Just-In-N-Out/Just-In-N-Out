@@ -26,7 +26,7 @@ I'm currently studying at **Arizona State University** and pursuing my **Master'
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Just-In-N-Out&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Just-In-N-Out&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -34,8 +34,8 @@ I'm currently studying at **Arizona State University** and pursuing my **Master'
 ## ⚡ Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Just-In-N-Out&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=00000000" alt="Justin's GitHub Stats" />
-  <img width="390" src="https://streak-stats.demolab.com/?user=Just-In-N-Out&theme=github-dark-blue&hide_border=true&background=00000000" alt="Justin's Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Just-In-N-Out&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Justin's GitHub Stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=Just-In-N-Out&theme=tokyonight&hide_border=true" alt="Justin's Streak Stats" />
 </div>
 
 ---
@@ -43,7 +43,7 @@ I'm currently studying at **Arizona State University** and pursuing my **Master'
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Just-In-N-Out&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Just-In-N-Out&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
