@@ -1,3 +1,5 @@
+<h1 align="center">Justin Issa</h1>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Just-In-N-Out&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
@@ -59,8 +61,14 @@ I'm currently studying at **Arizona State University** and pursuing my **Master'
 
 ## 🚀 Featured Project
 
-### 🏋️ [Minimal Log](https://github.com/Just-In-N-Out/minimal-log)
-A simple, no-nonsense gym tracking app I built because I needed something to track my weights without all the bloat. Clean UI, just the essentials.
+### 🏋️ [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) - Minimalist workout journaling
+
+`React` `TypeScript` `Capacitor` `Supabase`
+
+- Built offline-first architecture that syncs seamlessly when back online
+- Encrypted local storage with secure cloud backup via Supabase
+- Smart features: auto PR detection, templates, and session analytics
+- 📱 Available on iOS
 
 ---
 
