@@ -23,10 +23,14 @@ I'm currently studying at **Arizona State University** and pursuing my **Master'
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Just-In-N-Out&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-In-N-Out&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-In-N-Out&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-In-N-Out" alt="Profile Summary" />
+  </picture>
 </div>
 
 ---
@@ -34,16 +38,11 @@ I'm currently studying at **Arizona State University** and pursuing my **Master'
 ## ⚡ Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Just-In-N-Out&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Justin's GitHub Stats" />
-  <img width="390" src="https://streak-stats.demolab.com?user=Just-In-N-Out&theme=tokyonight&hide_border=true" alt="Justin's Streak Stats" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Just-In-N-Out&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Just-In-N-Out&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Just-In-N-Out&hide_border=true&theme=default" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Just-In-N-Out&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
