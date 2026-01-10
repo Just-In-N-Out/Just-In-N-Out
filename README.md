@@ -83,9 +83,9 @@ A simple, no-nonsense gym tracking app I built because I needed something to tra
 
 ## 🎯 Fun Facts
 
-- 🏋️ I hit the gym regularly 
-- 🎾 Tennis player
-- 🥋 Into martial arts
+- 🏋️ I bench 265 lbs
+- 🎾 Love to play tennis
+- 🥋 Training jiu-jitsu (still getting submitted, but improving)
 - 🍔 I love In-N-Out (yes, the username checks out)
 
 ---
