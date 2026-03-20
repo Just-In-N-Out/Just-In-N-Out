@@ -60,11 +60,11 @@ My focus is the intersection of **AI systems and security** — specifically:
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,django,fastapi" />
 
 **Security & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,aws,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,aws,postgres,git" />
 
 </div>
 
