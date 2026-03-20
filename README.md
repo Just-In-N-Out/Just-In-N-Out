@@ -1,10 +1,5 @@
 <h1 align="center">Justin Issa</h1>
-
-<h3 align="center">🔐 Software Engineer | Aspiring Cybersecurity Specialist | AI Security Enthusiast</h3>
-
-<p align="center">
-  <em>"If there is a will, there is a way."</em>
-</p>
+<h3 align="center">Security Engineer · Full-Stack Capable · AI/LLM Security</h3>
 
 <div align="center">
   <picture>
@@ -26,42 +21,51 @@
 
 ## 🧠 About Me
 
-I'm a software engineer with a growing passion for cybersecurity. My background in building software made me realize how critical it is to design **secure architecture from the ground up** — not as an afterthought.
+I'm a security-focused engineer finishing my B.S. in Software Engineering at **Arizona State University** and pursuing a **Master's in Cybersecurity**. My edge is that I can go deep on the adversarial side and still ship production code.
 
-I'm currently studying at **Arizona State University** and pursuing my **Master's in Cybersecurity**. My focus is on the intersection of **AI and security** — specifically:
+My focus is the intersection of **AI systems and security** — specifically:
 
-- 🛡️ AI-powered threat detection that catches attacks in real-time
-- 🔮 Using ML to predict where attacks will happen before they do
-- 🔒 Securing AI pipelines and LLMs (because everyone's shipping AI, but few are securing it)
-- 🚀 Building secure architecture for AI/ML systems and fast-scaling startups
+- 🔒 Securing LLM pipelines against prompt injection and adversarial inputs
+- 🛡️ Designing secure backend architecture from the ground up — not patched after the fact
+- 🔍 Red-teaming deployed AI systems for real vulnerabilities
+- 🚀 Building software that holds up under attack
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🏋️ [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) - Minimalist workout journaling
+### 🔍 [LLM Vulnerability Scanner](https://github.com/Just-In-N-Out) — Red-teaming tool for deployed LLMs
+`Python` `FastAPI` `Typer`
 
+- Systematically tests LLMs for prompt injection, jailbreaks, and system prompt extraction
+- CLI + REST API interface for integration into security workflows
+
+### 🔎 [3DSearch](https://github.com/Just-In-N-Out) — 3D model aggregator with LLM security layer
+`Django` `PostgreSQL` `React` `Docker` `Ollama`
+
+- Implemented three-layer prompt injection defense: input sanitization, structured prompt wrapping, output validation
+- Locally hosted LLM inference via Ollama — no third-party API exposure
+
+### 🏋️ [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) — Minimalist workout tracker
 `React` `TypeScript` `Capacitor` `Supabase`
 
-- Built offline-first architecture that syncs seamlessly when back online
-- Encrypted local storage with secure cloud backup via Supabase
-- Smart features: auto PR detection, templates, and session analytics
-- 📱 Available on iOS
+- Offline-first architecture with secure cloud sync via Supabase
+- Mobile-first, available on iOS
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-  **Languages & Frameworks**
-  
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs" />
-  
-  **Security & Infrastructure**
-  
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,aws,postgres,mongodb" />
-  
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs" />
+
+**Security & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,aws,postgres,mongodb" />
+
 </div>
 
 <div align="center">
