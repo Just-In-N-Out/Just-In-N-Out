@@ -50,7 +50,9 @@ My focus is the intersection of **AI systems and security** — specifically:
 `React` `TypeScript` `Capacitor` `Supabase`
 
 - Built because I wanted a no-nonsense way to track my lifts at the gym — every existing app was too bloated
-- Offline-first architecture with secure cloud sync via Supabase
+- Row-Level Security on every user-facing table — nested ownership checks through `workout_exercises → workouts → user_id` prevent cross-user data access even with valid IDs
+- SECURITY DEFINER server-side functions handle all sensitive aggregations and notifications — including self-notification prevention
+- Zod schema validation on all user inputs — search queries restricted to alphanumeric, post/comment fields enforced with strict length and type bounds
 - Mobile-first, available on iOS
 
 *Built because I wanted a no-nonsense way to track my lifts at the gym.*
