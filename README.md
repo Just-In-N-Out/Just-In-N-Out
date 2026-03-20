@@ -42,8 +42,9 @@ My focus is the intersection of **AI systems and security** — specifically:
 ### 🔎 [3DSearch](https://github.com/Just-In-N-Out) — 3D model aggregator with LLM security layer
 `Django` `PostgreSQL` `React` `Docker` `Ollama`
 
-- Implemented three-layer prompt injection defense: input sanitization, structured prompt wrapping, output validation
-- Locally hosted LLM inference via Ollama — no third-party API exposure
+- Designed a three-layer prompt injection defense: input sanitization, structured prompt wrapping with labeled data blocks, and output validation that scans for API keys, SQL, and shell patterns
+- Built a thread-safe token bucket rate limiter for external API calls alongside per-IP throttling — 100 req/hour with a global anonymous cap
+- Custom exception middleware prevents information disclosure — generic errors returned to clients, full stack traces logged server-side only
 
 ### 🏋️ [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) — Minimalist workout tracker
 `React` `TypeScript` `Capacitor` `Supabase`
