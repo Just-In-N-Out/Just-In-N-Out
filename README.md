@@ -46,7 +46,7 @@ My focus is the intersection of **agentic AI security** and **secure systems des
 - Built a thread-safe token bucket rate limiter for external API calls alongside per-IP throttling — 100 req/hour with a global anonymous cap
 - Custom exception middleware prevents information disclosure — generic errors returned to clients, full stack traces logged server-side only
 
-### [MinimaLog](https://github.com/Just-In-N-Out/MinimaLog) — Minimalist workout tracker
+### [MinimaLog](https://github.com/Just-In-N-Out/MinimaLog) · [Live App](https://www.minimalog.fit) — Minimalist workout tracker
 *Built because I wanted a no-nonsense way to track my lifts at the gym.*
 
 `React` `TypeScript` `Capacitor` `Supabase`
