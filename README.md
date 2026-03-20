@@ -1,5 +1,5 @@
 <h1 align="center">Justin Issa</h1>
-<h3 align="center">Security Engineer · Full-Stack Capable · AI/LLM Security</h3>
+<h3 align="center">Security Engineer · Full-Stack Capable · Agentic AI Security</h3>
 
 <div align="center">
   <picture>
@@ -25,15 +25,15 @@ I'm a security-focused engineer finishing my B.S. in Software Engineering at **A
 
 My focus is the intersection of **AI systems and security** — specifically:
 
-- 🔒 Securing LLM pipelines against prompt injection and adversarial inputs
+- 🔒 Securing agentic AI pipelines against prompt injection and adversarial inputs
 - 🛡️ Designing secure backend architecture from the ground up — not patched after the fact
-- 🔍 Red-teaming deployed AI systems for vulnerabilities
+- 🔍 Red-teaming deployed AI agents and LLM systems for vulnerabilities
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 [LLM Vulnerability Scanner](https://github.com/Just-In-N-Out) — Red-teaming tool for deployed LLMs
+### 🔍 [LLM Vulnerability Scanner](https://github.com/Just-In-N-Out) — Red-teaming tool for deployed AI agents and LLMs
 `Python` `FastAPI` `Typer`
 
 - Systematically tests LLMs for prompt injection, jailbreaks, and system prompt extraction
