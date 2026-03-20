@@ -47,7 +47,7 @@ My focus is the intersection of **AI systems and security** — specifically:
 - Custom exception middleware prevents information disclosure — generic errors returned to clients, full stack traces logged server-side only
 
 ### 🏋️ [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) — Minimalist workout tracker
-*Built because I wanted a no-nonsense way to track my lifts at the gym — every existing app was too bloated.*
+*Built because I wanted a no-nonsense way to track my lifts at the gym.*
 
 `React` `TypeScript` `Capacitor` `Supabase`
 
