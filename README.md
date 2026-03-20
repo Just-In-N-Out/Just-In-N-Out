@@ -63,7 +63,7 @@ My focus is the intersection of **agentic AI security** and **secure systems des
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,django,fastapi" />
 
 **Security & Infrastructure**
 
@@ -75,6 +75,12 @@ My focus is the intersection of **agentic AI security** and **secure systems des
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+</div>
+
+<div align="center">
+
+**Security Concepts:** Threat Modeling · Prompt Injection Defense · RBAC · OAuth · Row-Level Security · SQL
+
 </div>
 
 ---
