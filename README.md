@@ -79,7 +79,9 @@ My focus is the intersection of **agentic AI security** and **secure systems des
 
 <div align="center">
 
-**Security Concepts:** Threat Modeling · Prompt Injection Defense · RBAC · OAuth · Row-Level Security · SQL
+**Security Concepts**
+
+Threat Modeling · Prompt Injection Defense · RBAC · OAuth · Row-Level Security · SQL
 
 </div>
 
