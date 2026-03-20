@@ -19,34 +19,34 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a security-focused engineer finishing my B.S. in Software Engineering at **Arizona State University** and pursuing a **Master's in Cybersecurity**. My edge is that I can go deep on the adversarial side and still ship production code.
 
 My focus is the intersection of **AI systems and security** — specifically:
 
-- 🔒 Securing agentic AI pipelines against prompt injection and adversarial inputs
-- 🛡️ Designing secure backend architecture from the ground up — not patched after the fact
-- 🔍 Red-teaming deployed AI agents and LLM systems for vulnerabilities
+- Securing agentic AI pipelines against prompt injection and adversarial inputs
+- Designing secure backend architecture from the ground up — not patched after the fact
+- Red-teaming deployed AI agents and LLM systems for vulnerabilities
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔍 [LLM Vulnerability Scanner](https://github.com/Just-In-N-Out) — Red-teaming tool for deployed AI agents and LLMs
+### [LLM Vulnerability Scanner](https://github.com/Just-In-N-Out) — Red-teaming tool for deployed AI agents and LLMs
 `Python` `FastAPI` `Typer`
 
 - Systematically tests LLMs for prompt injection, jailbreaks, and system prompt extraction
 - CLI + REST API interface for integration into security workflows
 
-### 🔎 [3DSearch](https://github.com/Just-In-N-Out) — 3D model aggregator with LLM security layer
+### [3DSearch](https://github.com/Just-In-N-Out) — 3D model aggregator with LLM security layer
 `Django` `PostgreSQL` `React` `Docker` `Ollama`
 
 - Designed a three-layer prompt injection defense: input sanitization, structured prompt wrapping with labeled data blocks, and output validation that scans for API keys, SQL, and shell patterns
 - Built a thread-safe token bucket rate limiter for external API calls alongside per-IP throttling — 100 req/hour with a global anonymous cap
 - Custom exception middleware prevents information disclosure — generic errors returned to clients, full stack traces logged server-side only
 
-### 🏋️ [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) — Minimalist workout tracker
+### [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) — Minimalist workout tracker
 *Built because I wanted a no-nonsense way to track my lifts at the gym.*
 
 `React` `TypeScript` `Capacitor` `Supabase`
@@ -57,7 +57,7 @@ My focus is the intersection of **AI systems and security** — specifically:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -79,16 +79,16 @@ My focus is the intersection of **AI systems and security** — specifically:
 
 ---
 
-## 🎯 Fun Facts
+## Fun Facts
 
-- 🏋️ I bench 265 lbs
-- 🚩 I love doing Capture the Flag (CTF) challenges
-- 🥋 Training jiu-jitsu (still getting submitted, but improving)
-- 🍔 I love In-N-Out (yes, the username checks out)
+- I bench 265 lbs
+- I love doing Capture the Flag (CTF) challenges
+- Training jiu-jitsu (still getting submitted, but improving)
+- I love In-N-Out (yes, the username checks out)
 
 ---
 
-## 🐍 My Contributions
+## My Contributions
 
 <div align="center">
   <picture>
