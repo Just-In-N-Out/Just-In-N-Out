@@ -49,8 +49,11 @@ My focus is the intersection of **AI systems and security** — specifically:
 ### 🏋️ [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) — Minimalist workout tracker
 `React` `TypeScript` `Capacitor` `Supabase`
 
+- Built because I wanted a no-nonsense way to track my lifts at the gym — every existing app was too bloated
 - Offline-first architecture with secure cloud sync via Supabase
 - Mobile-first, available on iOS
+
+*Built because I wanted a no-nonsense way to track my lifts at the gym.*
 
 ---
 
