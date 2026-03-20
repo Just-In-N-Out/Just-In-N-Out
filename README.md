@@ -27,8 +27,7 @@ My focus is the intersection of **AI systems and security** — specifically:
 
 - 🔒 Securing LLM pipelines against prompt injection and adversarial inputs
 - 🛡️ Designing secure backend architecture from the ground up — not patched after the fact
-- 🔍 Red-teaming deployed AI systems for real vulnerabilities
-- 🚀 Building software that holds up under attack
+- 🔍 Red-teaming deployed AI systems for vulnerabilities
 
 ---
 
@@ -79,7 +78,7 @@ My focus is the intersection of **AI systems and security** — specifically:
 ## 🎯 Fun Facts
 
 - 🏋️ I bench 265 lbs
-- 🎾 Love to play tennis
+- 🚩 I love doing Capture the Flag (CTF) challenges
 - 🥋 Training jiu-jitsu (still getting submitted, but improving)
 - 🍔 I love In-N-Out (yes, the username checks out)
 
