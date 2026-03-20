@@ -21,13 +21,13 @@
 
 ## About Me
 
-I'm a security-focused engineer finishing my B.S. in Software Engineering at **Arizona State University** and pursuing a **Master's in Cybersecurity**. My edge is that I can go deep on the adversarial side and still ship production code.
+I'm a security-focused engineer finishing my B.S. in Software Engineering at **Arizona State University**, accepted to **Georgia Tech's OMSCY program** for Fall 2026. I build systems with security designed in from the start — I've implemented three-layer prompt injection defenses, thread-safe rate limiters, and row-level security across production projects. My edge is that I can red-team a system and build the fix.
 
-My focus is the intersection of **AI systems and security** — specifically:
+My focus is the intersection of **agentic AI security** and **secure systems design** — specifically:
 
 - Securing agentic AI pipelines against prompt injection and adversarial inputs
 - Designing secure backend architecture from the ground up — not patched after the fact
-- Red-teaming deployed AI agents and LLM systems for vulnerabilities
+- Red-teaming deployed AI agents for prompt injection, jailbreaks, and system prompt extraction
 
 ---
 
@@ -37,7 +37,7 @@ My focus is the intersection of **AI systems and security** — specifically:
 `Python` `FastAPI` `Typer`
 
 - Systematically tests LLMs for prompt injection, jailbreaks, and system prompt extraction
-- CLI + REST API interface for integration into security workflows
+- Outputs structured JSON reports for manual triage or pipeline integration — testable via CLI or REST API
 
 ### [3DSearch](https://github.com/Just-In-N-Out) — 3D model aggregator with LLM security layer
 `Django` `PostgreSQL` `React` `Docker` `Ollama`
