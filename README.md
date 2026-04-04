@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a security-focused engineer finishing my B.S. in Software Engineering at **Arizona State University**, accepted to **Georgia Tech's OMSCY program** for Fall 2026. I build systems with security designed in from the start — I've implemented three-layer prompt injection defenses, thread-safe rate limiters, and row-level security across production projects. My edge is that I can red-team a system and build the fix.
+I'm a security-focused engineer finishing my B.S. in Software Engineering at **Arizona State University**, accepted to **Georgia Tech's MSCY program** for Fall 2026. I build systems with security designed in from the start — I've implemented three-layer prompt injection defenses, thread-safe rate limiters, and row-level security across production projects. My edge is that I can red-team a system and build the fix.
 
 My focus is the intersection of **agentic AI security** and **secure systems design** — specifically:
 
