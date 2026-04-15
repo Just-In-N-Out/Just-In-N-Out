@@ -47,22 +47,19 @@ I'm graduating from Arizona State University in May 2026 and starting my Master'
 
 <div align="center">
 
-**Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,java" />
+Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs" />
 
-**Security & Infrastructure**
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,postgres,github" />
+Security & Infrastructure
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,aws,postgres,mongodb" />
 
 </div>
 
----
-
-## Fun Facts
-
-- I bench 265 lbs
-- Love to play tennis
-- Training jiu-jitsu (still getting submitted, but improving)
-- I love In-N-Out (yes, the username checks out)
+<div align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+</div>
 
 ---
 
