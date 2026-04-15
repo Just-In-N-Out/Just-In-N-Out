@@ -1,30 +1,23 @@
 <h1 align="center">Justin Issa</h1>
-
-<h3 align="center">🔐 Software Engineer | Aspiring Cybersecurity Specialist | AI Security Enthusiast</h3>
-
-<p align="center">
-  <em>"If there is a will, there is a way."</em>
-</p>
+<h3 align="center">🔐 Software Engineer | Aspiring AppSec & DevSecOps Engineer</h3>
 
 ---
 
 ## 🧠 About Me
 
-I'm a software engineer with a growing passion for cybersecurity. My background in building software made me realize how critical it is to design **secure architecture from the ground up** — not as an afterthought.
+I'm a software engineer with a deep focus on application security and DevSecOps. My background in building full-stack and mobile applications made me realize how critical it is to design secure architecture from the ground up — not as an afterthought.
 
-I'm currently studying at **Arizona State University** and pursuing my **Master's in Cybersecurity**. My focus is on the intersection of **AI and security** — specifically:
+I'm graduating from Arizona State University in May 2026 and starting my Master's in Cybersecurity at Georgia Tech (Information Security track) in Fall 2026. My focus:
 
-- 🛡️ AI-powered threat detection that catches attacks in real-time
-- 🔮 Using ML to predict where attacks will happen before they do
-- 🔒 Securing AI pipelines and LLMs (because everyone's shipping AI, but few are securing it)
-- 🚀 Building secure architecture for AI/ML systems and fast-scaling startups
+- 🔒 Securing AI pipelines and LLMs against prompt injection and adversarial misuse
+- 🛡️ DevSecOps — embedding security into CI/CD pipelines from day one
+- 🔎 Application security — SAST, secret detection, dependency auditing, access control
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔓 [LLM Vulnerability Scanner](https://github.com/Just-In-N-Out/LLM-Vulnerability-Scanner) - Security testing for AI applications
-
+### 🔓 LLM Vulnerability Scanner — Security Testing for AI Applications
 `Python` `OpenAI API` `Anthropic API` `CLI`
 
 - Tests LLM applications for prompt injection, jailbreaks, and data leakage
@@ -32,35 +25,34 @@ I'm currently studying at **Arizona State University** and pursuing my **Master'
 - Generates security reports with severity scoring
 - Helps developers ship secure AI products
 
-### 🏋️ [MinimaLog](https://github.com/Just-In-N-Out/minimal-log) - Minimalist workout journaling
+### 🔍 3DSearch — Secure Web Aggregation Platform
+`Python` `Django` `Docker` `PostgreSQL` `GitHub Actions`
 
-`React` `TypeScript` `Capacitor` `Supabase`
+- Built a 3-layer prompt injection defense system for integrated LLM features
+- Implemented a full DevSecOps CI/CD pipeline: Trivy, Bandit, Gitleaks, Safety
+- Engineered token bucket rate limiting to mitigate DDoS and API abuse
+- Capstone project, sponsored by LinkClicks
 
-- Built offline-first architecture that syncs seamlessly when back online
-- Encrypted local storage with secure cloud backup via Supabase
-- Smart features: auto PR detection, templates, and session analytics
-- 📱 Available on iOS
+### 🏋️ MinimaLog — Minimalist Workout Tracking
+`React` `TypeScript` `Supabase` `Capacitor`
+
+- Row-level security (RLS) enforcing strict data isolation at the database layer
+- OAuth authentication with security-conscious schema design
+- Offline-first architecture with background sync
+- 📱 Live on iOS
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-  **Languages & Frameworks**
-  
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs" />
-  
-  **Security & Infrastructure**
-  
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,aws,postgres,mongodb" />
-  
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+**Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,java" />
+
+**Security & Infrastructure**
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,postgres,github" />
+
 </div>
 
 ---
