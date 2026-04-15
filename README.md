@@ -17,6 +17,15 @@ I'm graduating from Arizona State University in May 2026 and starting my Master'
 
 ## Featured Projects
 
+### 3DSearch — Secure Web Aggregation Platform
+`Python` `Django` `Docker` `PostgreSQL` `GitHub Actions`
+
+> Capstone Project, sponsored by [LinkClicks](https://linkclicks.io)
+
+- Built a 3-layer prompt injection defense system for integrated LLM features
+- Implemented a full DevSecOps CI/CD pipeline: Trivy, Bandit, Gitleaks, Safety
+- Engineered token bucket rate limiting to mitigate DDoS and API abuse
+
 ### [LLM Vulnerability Scanner](https://github.com/Just-In-N-Out/LLM-Vulnerability-Scanner) — Security Testing for AI Applications
 `Python` `OpenAI API` `Anthropic API` `CLI`
 
@@ -25,21 +34,12 @@ I'm graduating from Arizona State University in May 2026 and starting my Master'
 - Generates security reports with severity scoring
 - Helps developers ship secure AI products
 
-### 3DSearch — Secure Web Aggregation Platform
-`Python` `Django` `Docker` `PostgreSQL` `GitHub Actions`
-
-- Built a 3-layer prompt injection defense system for integrated LLM features
-- Implemented a full DevSecOps CI/CD pipeline: Trivy, Bandit, Gitleaks, Safety
-- Engineered token bucket rate limiting to mitigate DDoS and API abuse
-- Capstone project, sponsored by LinkClicks
-
 ### [MinimaLog](https://github.com/Just-In-N-Out/MinimaLog) — Minimalist Workout Tracking
 `React` `TypeScript` `Supabase` `Capacitor`
 
 - Row-level security (RLS) enforcing strict data isolation at the database layer
 - OAuth authentication with security-conscious schema design
 - Offline-first architecture with background sync
-- Live on iOS
 
 ---
 
