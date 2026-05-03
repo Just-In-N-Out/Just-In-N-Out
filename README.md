@@ -1,5 +1,5 @@
 <h1 align="center">Justin Issa</h1>
-<h3 align="center">Software Engineer | Aspiring AppSec & DevSecOps Engineer</h3>
+<h3 align="center">Software Engineer | AppSec & DevSecOps Engineer</h3>
 
 ---
 
