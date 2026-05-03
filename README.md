@@ -15,18 +15,22 @@ Graduating from Arizona State University in May 2026 and starting my Master's in
 
 ---
 
-## Featured Projects
+## Experience
 
-### 3DSearch — Real-Time 3D Model Aggregation Platform
+### Software Engineering Intern @ [LinkClicks](https://linkclicks.io) — [3dsearch.org](https://3dsearch.org/)
 `Python` `Django` `React` `PostgreSQL` `Celery` `Redis` `Docker` `GitHub Actions`
 
-> Software Engineering Internship at [LinkClicks](https://linkclicks.io) — [3dsearch.org](https://3dsearch.org/)
+> Aug 2025 – May 2026 · Remote
 
 - Django 5 + DRF backend with 13 REST endpoints, 10 PostgreSQL models, and ~350 pytest tests, deployed via Docker Compose (7 services) to AWS EC2 with multi-architecture (amd64 + arm64) container builds
 - Async ingestion pipeline on Celery + Redis aggregating 5 third-party APIs over HTTP/2, sustaining ~240 models ingested per day with zero rate-limit bans across platforms
 - Real-time streaming search via Django Channels and Redis pub/sub, replacing client polling with WebSocket push updates
 - 3-layer prompt injection defense modeled on OWASP LLM01 (sanitization, label wrapping, output validation) blocking adversarial misuse of integrated AI features
 - Trivy-based GitHub Actions DevSecOps pipeline gated on HIGH/CRITICAL findings — caught 3 real CVEs pre-merge over the project's lifetime
+
+---
+
+## Featured Projects
 
 ### [LLM Vulnerability Scanner](https://github.com/Just-In-N-Out/LLM-Vulnerability-Scanner) — Reusable DevSecOps Pipeline for AI Apps
 `Python` `GitHub Actions` `SARIF` `Pydantic` `OWASP LLM Top 10`
